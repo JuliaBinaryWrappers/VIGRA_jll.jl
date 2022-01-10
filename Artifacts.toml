@@ -1,0 +1,288 @@
+[[VIGRA]]
+arch = "aarch64"
+git-tree-sha1 = "c63627399b7fb41ab85ec3da0abfc24821e47f59"
+os = "macos"
+
+    [[VIGRA.download]]
+    sha256 = "4d9144ca3a8b23a5fc09acfba80b6559b547dcb26e1bc5595ae9ec06e0030667"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.aarch64-apple-darwin.tar.gz"
+[[VIGRA]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "22e99940422837738c4b3e9b9976559c58be3c2a"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "67df685ba5495ed93b01d26345e64d47c91bcc98645106db47388c0ef9a31c92"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[VIGRA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a248bb52623a124e4623b6639b4cddbd3e085bfb"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "881fc515918148817052de29fab8a02548945c9777a84d957c19a21e2e7b63e0"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[VIGRA]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b654bd4dd77f2d111de69debf63182e32fe64086"
+libc = "musl"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "b8e4dd3ae79ce022a81415a3452848b95cc4994902cf52a255b876ee534cc3a8"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.aarch64-linux-musl-cxx03.tar.gz"
+[[VIGRA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a4fa21977a4bd709bf18a2b2d1d428461b5e4096"
+libc = "musl"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "1d4bce969aaffd7d85c96a474bd47481b69266a3704ba0a5d8e5a9c25a7cde70"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.aarch64-linux-musl-cxx11.tar.gz"
+[[VIGRA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "656bab39ea4f067f9ca0c5cafc4b9cc17c8e24a0"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "64935b85981252bdfae38c70fdfd7a22611da89b528946e3cfec7d8e80638fad"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[VIGRA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8b203f6b365aeb2d0a2de129b8975b0e9fcc0f80"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "ee0cb0116c19065b8c3ceb4dd285bf52945b91d830336b6a713ded5de1107cb6"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[VIGRA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2682cf3930f73c223c0473593904d2da4b671557"
+libc = "musl"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "4a650faa9d26a68966a3f9b5ac3edd9f44893936611b28f624556afc9cf3f14e"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[VIGRA]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5b02b37cc8431364dc040b9ced39a5d616f33560"
+libc = "musl"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "a734d8694d8720c0301495108b0bc0ac0fc2e58c77e4f0bc0e0f68ba3810592e"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[VIGRA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1f8411077303ff05244de4d5031e79ad21afde9c"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "998ffb187d67ffa3758c286ce1bd3c5fe8cd83dacdc2677427403d497416b730"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[VIGRA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f801877e226259e765a9317243ee6444adad3e69"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "5adf765a12144232cf8121e00b0255ee2c2b9684b657cf1a0dbf802cba48901b"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[VIGRA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0bf12122898960ae138e019ea43e5f76bddbff1e"
+libc = "musl"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "b54380ff022ba3c242be6432410d1cbfa381badfd4ddaf4ab9f979961fd0d3b6"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[VIGRA]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae57ac699a02fed65a7c4b23edff773a81dba8e7"
+libc = "musl"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "dbe2bfc7ec4f8f6976d4ff4311c58b3a9c7bc216246ac8e024fc11eb5aee7989"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[VIGRA]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b9c22d4c406a3f76892dd720e88be605d84d4e57"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "cdabb198b7b1d55a2a3b5c26c606041ffa46a8bb0f7b7b1279b00e6fd19d920f"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.i686-linux-gnu-cxx03.tar.gz"
+[[VIGRA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dfe8ff49e45a7a3e26f0db7e7cee909548a0f19b"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "2dc1761bd5b969536c4f249865278b62011b7e12aa59a52e9efd692547f69015"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.i686-linux-gnu-cxx11.tar.gz"
+[[VIGRA]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f5e9fbbc737b0de8e7b95939762354d243bec25"
+libc = "musl"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "979dc165baeddc6fbdfafca88e50103ffb41be1de1e13b9bfff0c791adae9dcf"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.i686-linux-musl-cxx03.tar.gz"
+[[VIGRA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "68847cc7f0d85626a89c89f56acfe8d9fe03421e"
+libc = "musl"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "8f6c25e3e80166a71b95cf072c60678d268767891a2df95164497687184be70c"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.i686-linux-musl-cxx11.tar.gz"
+[[VIGRA]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1256987ae4e0f9bbd1b79dafac535edfd7f05fd1"
+os = "windows"
+
+    [[VIGRA.download]]
+    sha256 = "8ff771f555911309b1305c42db4226f964c3eb269c305146868c8cacd7228c6a"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.i686-w64-mingw32-cxx03.tar.gz"
+[[VIGRA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "46b0361a20b4ee7c61d7cda3c2b166db84ff4ed9"
+os = "windows"
+
+    [[VIGRA.download]]
+    sha256 = "7f3899d34454ac0009a4d48bc4cac6dc67ae3fe7e91f572bfdc4d9e4ba337246"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.i686-w64-mingw32-cxx11.tar.gz"
+[[VIGRA]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d0e77a9e7de8e4cd922bd699f9e171b31ab05ed"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "4799123066427ee0552eac6db356fcd887456750f9ae74d50b54e1c393462c86"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[VIGRA]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26c5941712662b557382c25505b854a71e6620b2"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "f8b37b6de9e07abebb7c7212a091104a6c341103d28e5f4a4cfd2da209e3f74d"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[VIGRA]]
+arch = "x86_64"
+git-tree-sha1 = "16b56e7a43c0eb779f14026914fc3cae7dffaa5f"
+os = "macos"
+
+    [[VIGRA.download]]
+    sha256 = "25457dc147b921216d37f7348a21c739ab50e4de94b56c065373163259772ca8"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.x86_64-apple-darwin.tar.gz"
+[[VIGRA]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ae1a3bd73e19ee8bac2e91eecef269fa5f27edfc"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "7e3b383cc40e913c82c682693531b27383f8b01c37da674a9ddea799cc2cbe9f"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[VIGRA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26ed2daeabb58510edd6d5531ac1e865605e5258"
+libc = "glibc"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "008b8762f089d6225f0b5806afafc8695e3ca3527918c5925249b97f310169b7"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[VIGRA]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c6316023e87013e0b76369b227591aca5de66208"
+libc = "musl"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "50f807ea1b2e40e1555f7f3577a587c9e3ebd75e41bcc477be55f7f06ddab907"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.x86_64-linux-musl-cxx03.tar.gz"
+[[VIGRA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "042aa8c57ac10db262a341650e9ba41cd4723a2b"
+libc = "musl"
+os = "linux"
+
+    [[VIGRA.download]]
+    sha256 = "776acf38d9450a8eca67445066494fecc552ea126d15addd3f94dd534b81f583"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.x86_64-linux-musl-cxx11.tar.gz"
+[[VIGRA]]
+arch = "x86_64"
+git-tree-sha1 = "811e441e42a1a5ef837b5fe32207c53e1e29f010"
+os = "freebsd"
+
+    [[VIGRA.download]]
+    sha256 = "3ecf41cf08d7319f5a6a0a418ab781b8dbd859b51498a45e072cc1021ed3de15"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.x86_64-unknown-freebsd.tar.gz"
+[[VIGRA]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a69adfd359f7759be2882c78f10d41eee23a0e96"
+os = "windows"
+
+    [[VIGRA.download]]
+    sha256 = "12b55dbbe831a3a5cad706b00506cb4b2725b89176751bfd5052a9c4dc94cf65"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[VIGRA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dac7c6cdf4cafa49f8d72d0cc1163d067fd880f1"
+os = "windows"
+
+    [[VIGRA.download]]
+    sha256 = "381baea61223ba92b294ce19772065586499356e0df48b0ce83d29de3a6e46a1"
+    url = "https://github.com/JuliaBinaryWrappers/VIGRA_jll.jl/releases/download/VIGRA-v1.11.1+0/VIGRA.v1.11.1.x86_64-w64-mingw32-cxx11.tar.gz"
